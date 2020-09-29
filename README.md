@@ -24,12 +24,12 @@
 
 ### How to install
 - <b>Silent installation:</b></br>
-Copy and paste the following command in Termux to silently install PhineInfoga Tool:<br/>
-```clear && echo -e '\033[1;32m[*] Download starting...' && apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://raw.githubusercontent.com/ExpertAnonymous/PhoneInfoga/master/phoneinfoga.sh -q && clear && bash phoneinfoga.sh```<br/>
+Copy and paste the following command in Termux to silently install PhoneNumberTracker Tool:<br/>
+```clear && echo -e '\033[1;32m[*] Download starting...' && apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://raw.githubusercontent.com/NadarAthis/PhoneNumberTracker/PhoneNumberTracker.sh -q && clear && bash PhoneNumberTracker.sh```<br/>
 
 ### About
 
-PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
+PhoneNumberTracker is one of the most advanced tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 
 ### Features
 
@@ -44,21 +44,8 @@ PhoneInfoga is one of the most advanced tools to scan phone numbers using only f
 ![Footprinting process](https://i.imgur.com/qCkgzz8.png)
 
 ## Subscribe our channel on youtube:
-https://www.youtube.com/ExpertAnonymousOfficial
-
+https://www.youtube.com/channel/UCK1ISapqE2JpoKsVyA1T0MQ
 ## 👥 ***Join***
-
-### Facebook page:
-https://www.facebook.com/ExpertAnonymous
-
-### Telegram Group:
-https://t.me/ExpertAnonymousOfficial
-
-### Instagram: 
-https://www.instagram.com/ExpertAnonymous
-
-### Twitter:
-https://www.twitter.com/ExpertAnonymoux
 
 ### 📢 Warning
 
